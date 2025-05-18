@@ -1,5 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/jrrNqco3)
-# Graded Challenge 4
+# Data-Driven Insights for Real Estate Sales Growth in Portugal
 
 _Graded Challenge ini dibuat guna mengevaluasi pembelajaran pada Hacktiv8 Comprehensive Data Analytics Program khususnya pada pemahaman fundamental analisa data dan pengolahan data menggunakan Google Spreadsheet._
 
